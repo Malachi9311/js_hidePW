@@ -10,3 +10,5 @@ const toggleIcon = () => {
         eyeIcon.src = "media/eye-close.png";
     }
 }
+
+// eyeIcon.onclick = function(){};
